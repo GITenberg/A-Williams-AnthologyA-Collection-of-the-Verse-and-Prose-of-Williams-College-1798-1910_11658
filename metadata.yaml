@@ -1,0 +1,33 @@
+_repo: A-Williams-AnthologyA-Collection-of-the-Verse-and-Prose-of-Williams-College-1798-1910_11658
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Park, Julian
+    birthdate: &id001 1888
+    deathdate: 1965
+    gutenberg_agent_id: '4586'
+    url: http://www.gutenberg.org/2009/agents/4586
+  - agent_name: Lehman, Edwin P. (Edwin Partridge)
+    birthdate: *id001
+    deathdate: 1954
+    gutenberg_agent_id: '4585'
+    url: http://www.gutenberg.org/2009/agents/4585
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Williams College'
+- !lcc 'PN'
+- !lcsh 'College verse, American -- Massachusetts -- Williamstown'
+- !lcsh 'College prose, American -- Massachusetts -- Williamstown'
+- GITenberg
+title: 'A Williams Anthology
+
+  A Collection of the Verse and Prose of Williams College, 1798-1910'
+url: http://www.gutenberg.org/ebooks/11658
